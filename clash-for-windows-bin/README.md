@@ -1,0 +1,1 @@
+[clash-core-service无法启动解决办法](https://github.com/Fndroid/clash_for_windows_pkg/issues/3482#issuecomment-1319429110)
